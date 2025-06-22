@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`b822409`](https://github.com/stdlib-js/stdlib/commit/b8224091e6e6caa3f263c7837b70fbb5e793a458) - add C implementation  for `stats/base/dists/kumaraswamy/quantile` [(#4549)](https://github.com/stdlib-js/stdlib/pull/4549)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3704](https://github.com/stdlib-js/stdlib/issues/3704)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b822409`](https://github.com/stdlib-js/stdlib/commit/b8224091e6e6caa3f263c7837b70fbb5e793a458) - **feat:** add C implementation  for `stats/base/dists/kumaraswamy/quantile` [(#4549)](https://github.com/stdlib-js/stdlib/pull/4549) _(by Dev Goel, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Dev Goel
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
