@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-22)
+## Unreleased (2025-07-08)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`d00c8a8`](https://github.com/stdlib-js/stdlib/commit/d00c8a84536acee1f0d53f08806d004856129d7b) - **docs:** fix string interpolation _(by Athan Reines)_
+-   [`d56366e`](https://github.com/stdlib-js/stdlib/commit/d56366e05e4b941d984a9fbf18e726102eaaa705) - **docs:** update examples and fix docs _(by Athan Reines)_
 -   [`b822409`](https://github.com/stdlib-js/stdlib/commit/b8224091e6e6caa3f263c7837b70fbb5e793a458) - **feat:** add C implementation  for `stats/base/dists/kumaraswamy/quantile` [(#4549)](https://github.com/stdlib-js/stdlib/pull/4549) _(by Dev Goel, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Dev Goel
 -   Philipp Burckhardt
 
