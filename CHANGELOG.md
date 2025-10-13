@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-08)
+## Unreleased (2025-10-13)
 
 <section class="features">
 
@@ -34,6 +34,11 @@ This release closes the following issue:
 
 <details>
 
+-   [`4a599d7`](https://github.com/stdlib-js/stdlib/commit/4a599d7672902faa05e6dfbe3822a27422337278) - **docs:** replace manual `for` loop in examples [(#8230)](https://github.com/stdlib-js/stdlib/pull/8230) _(by Harsh)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`d00c8a8`](https://github.com/stdlib-js/stdlib/commit/d00c8a84536acee1f0d53f08806d004856129d7b) - **docs:** fix string interpolation _(by Athan Reines)_
 -   [`d56366e`](https://github.com/stdlib-js/stdlib/commit/d56366e05e4b941d984a9fbf18e726102eaaa705) - **docs:** update examples and fix docs _(by Athan Reines)_
 -   [`b822409`](https://github.com/stdlib-js/stdlib/commit/b8224091e6e6caa3f263c7837b70fbb5e793a458) - **feat:** add C implementation  for `stats/base/dists/kumaraswamy/quantile` [(#4549)](https://github.com/stdlib-js/stdlib/pull/4549) _(by Dev Goel, Philipp Burckhardt, stdlib-bot)_
@@ -48,10 +53,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Dev Goel
+-   Harsh
 -   Philipp Burckhardt
 
 </section>
