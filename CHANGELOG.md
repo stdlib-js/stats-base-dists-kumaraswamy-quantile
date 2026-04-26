@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-25)
+## Unreleased (2026-04-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`692d07b`](https://github.com/stdlib-js/stdlib/commit/692d07bcc44df8d615d7e1cf707593d6708230dc) - **docs:** fix copy & paste error in LaTeX equation label and SVG file in `stats/base/dists/kumaraswamy` [(#11785)](https://github.com/stdlib-js/stdlib/pull/11785) _(by Philipp Burckhardt)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   anee3
 
 </section>
